@@ -10,9 +10,10 @@ const selectAll = (query, func) => Array.from(document.querySelectorAll(query)).
 const selectOne = (query, func) => Array.from(document.querySelector(query).childNodes).map(s => func(s));
 const innerText = (e) => e.innerText.split('\n').join(' ');
 
+
 // Create database from query
 if (location.href !== "https://open.spotify.com/") {
-      let mySongs = selectOne(SONGS, (s) => [innerText(s), s.querySelector(IMGS).src]);
+      let mySongs = selectOne(SONGS, (s) => [innerText(s), location.href, s.querySelector(IMGS).src]);
       console.log(mySongs);
       var db = openDatabase('mySpotifyDB', '1.0', 'Spotifiying to DB', 2 * 1024 * 1024); 
       db.transaction(function (tx) {   
