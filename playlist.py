@@ -9,7 +9,7 @@ SPOTIFY_ACCESS_TOKEN = 'BQDE-c_JR6OWrG4RFyOj26ElZPYsCj9j5_tT1a5OmPXbFAOWMv4jEK3q
 SPOTIFY_GET_PLAYLIST = f' 	https://api.spotify.com/v1/playlists/{playlist_id}'
 
 
-def get_recent_tracks(access_token: str) -> dict:
+def get_recent_tracks(access_token: str) -> tuple:
     response = requests.get(
         SPOTIFY_GET_PLAYLIST,
         headers = {
@@ -29,7 +29,7 @@ def get_recent_tracks(access_token: str) -> dict:
     image = resp_json['images'][0]['url']
 
 
-    track_name = []; artists = []; duration = []; links = []; playlist = []
+    track_name = []; artists = []; duration = []; links = []
     for item in items:
         track_name.append(item['track']['name'])
 
@@ -39,28 +39,31 @@ def get_recent_tracks(access_token: str) -> dict:
         min, sec = divmod(divmod(item['track']['duration_ms'], 1000)[0], 60)
         duration.append(datetime.time(0, min, sec).strftime('%M:%S'))
 
-
-    # Create dict with the format we want
+    # Create dict from data for csv'fication later on
     listening_history = {
+        'playlist': [name] * len(track_name),
         'name' : track_name,
         'artists': artists,
         'duration': duration,
         'link': links,
-        'playlist': playlist
     }
-    listening_history['playlist'] = [name]*len(track_name)
+    
+    # Keep metadata in separate text file
+    with open('data/playlist.txt', 'a') as f:
+        f.write(f'name: {listening_history["playlist"][0]}\ndescription: {description}\nimg ref: {image}\nid: {playlist_id}\n\n')
 
-    print(len(listening_history['playlist']), len(listening_history['name']))
+    # print(len(listening_history['playlist']), len(listening_history['name']))
     return listening_history, description, image
 
 
 def fill_df(listening_history: dict, name: str) -> None:
 
     list_df = pd.DataFrame(data=listening_history).fillna(method='bfill')  
-    list_df.to_csv(f'{name}.csv', index=False, header=True)
+    list_df.to_csv(f'data/{name}.csv', index=False, header=True)
 
 
-def main():
+
+def main() -> None:
     listening_history, description, image = get_recent_tracks(
         SPOTIFY_ACCESS_TOKEN
     )
