@@ -5,7 +5,7 @@
 # Requests what Spotify User was previously listening
 # Absolute limit is 50 previously listened tracks
 #
-# SOURCECODE: https://www.youtube.com/watch?v=yKz38ThJWqE
+# Inspired by get current listening from https://www.youtube.com/watch?v=yKz38ThJWqE
 
 import requests
 import pandas as pd
