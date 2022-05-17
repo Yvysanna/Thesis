@@ -32,15 +32,15 @@ def clean_df(df: pd.DataFrame) -> pd.DataFrame:
     '''Cleans texts for semantic comparison'''
     df['hub name'] = df['hub name'].apply(clean)
     df['playlist name'] = df['playlist name'].apply(clean)
-    df['time'] = df.time.astype(str).apply(lambda x: int(x[:2]))
+    # df['time'] = df.time.astype(str).apply(lambda x: int(x[:2]))
 
-    for i, time in df.time.iteritems():
-        if time < 12:
-            df.iloc[i] = 'morning'
-        elif time >=12<19:
-            df.iloc[i] = 'afternoon'
-        else:
-            df.iloc[i] = 'evening'
+    # for i, time in df.time.iteritems():
+    #     if time < 12:
+    #         df.iloc[i] = 'morning'
+    #     elif time >=12<19:
+    #         df.iloc[i] = 'afternoon'
+    #     else:
+    #         df.iloc[i] = 'evening'
     return df
 
 def map_color(x, all) -> list[str]:
