@@ -1,0 +1,66 @@
+{
+    "global_trends":
+    ["top songs global", "top 50 global","just hits","stay tuned","singled out","all new all now","top hits of 2018","top hits of 2017" ,
+    "viral 50 global", "new music friday","viral hits","hot rhythmic","easy 2000s","tune in","all out 90s","all out 80s","all out 70s","2000s mix","90s mix",
+    "all out 2010s","the 80s all lined up","all out 2000s","todays top hits","platinum hits","hit rewind","global x","zomerhits 20102020","summer hits of the 10s",
+    "mega hit mix","hot hits","best new artist 2022","big on the internet","fresh hits","radar global","platinum dance hits","70s mix", "2010s mix"]
+    
+    ,"local_trends": ["top 50 netherlands","top songs nederland", "viral 50 netherlands","beste van woordenschat","10s beste nltalig", "beste van nl", "top songs netherlands",
+    "de hits uit 2018", "de hits uit 2019","je moerstaal", "new music friday nl","hot hits nl","npo radio2 top 2000","viral hits nl","de hits uit 2016",
+    "10s allerbeste","80s beste nltalig","60s beste nltalig","70s beste nltalig","00s beste nltalig","90s beste nltalig","equal netherlands","de hits uit 2017",
+    "de hits uit 2012", "de hits uit 2015", "de hits uit 2014","de hits uit 2011", "de hits uit 2013","de hits uit 2010","made in nl"]
+    
+    ,"genres":["salsa classics","i love my 2000s rb", "10s latino","jazz classics", "jazz vibes", "deep house rules", "deep house relax", "salsa nation",
+    "i love my 90s hiphop","latin pop classics","sing along kpop", "baila reggaeton", "reggaeton classics","rap caviar","techno bunker","latin flavor",
+    "soft pop hits","future hits latin","new music friday latin","kclub party","leyendas urbanas","afro hits","viva latino","fresh pop","pop rising",
+    "hot new dance","singalong indie hits", "360 dance", "woordenschat","i love my 00s rb","best hiphop songs of 2020","rock classics","energy booster hiphop",
+    "classic pop picks","are  be","rock party","acoustic favorites","state of jazz","women of pop","pop sauce","beats of rock 2012","best of rock 2014",
+    "chilled rb","classical new releases","best of rock 2012","chilled pop hits","pop remix","rapcaviar","00s soft rock","10s soft rock","its lit","chill pop",
+    "best rap songs of 2019","kpop on","rock classic","latin hit mix","kpop xovers","reggae classics","soft rock","reggaeton mix","kpop mix","pop mix",
+    "coffee table jazz","happy beats","new alternative","hot country","best rap songs of 2017","rock mix", "afrobeats mix","rap uk","80s rock anthems",
+    "70s rock anthems", "00s rock anthems", "80s soft rock","90s rock anthems","pure rock  roll", "classic acoustic","african heart","rb mix",
+    "reggaeton  mix","love pop","deephouse delight","10s pop rock","best of rock 2013","big room dance","summer dance hits","sad classical","rainy day jazz","raised on rock",
+    "african heat","classic afropop","afropop","funk hits","on screen guitar","desi hits","alternative all lined up","hallyu boy bands","hardstyle bangers","feel good acoustic",
+    "mint", "full volume","girl krush"
+    ]
+    
+    ,"moods":["chill hits","t koffiehuis","peaceful piano","lofi beats" ,"happy tunes","guilty pleasures","dj vu","karaoke duets",
+    "singalong 90s to now","karaoke en espanol","power workout","top hits workout","beast mode","latin cardio","fun run",
+    "zumba beats","motivation mix","workout","workout hiphop","power hour","preparty mood","pull up hits","party tunes","peaceful meditation","vibes",
+    "sleep","instrumental study","fresh flows","all the feels","run this town","yoga  meditation","feeling good feeling great","comfort zone",
+    "broken heart","cardio","running x remix","intense studying","life sucks","throwback party","songs to sing in the shower","relaxing massage",
+    "karakter","chillout lounge","chill mode on","reading soundtrack","dance party","girls night","la vida loca","dinner with friends","dinner music",
+    "feel good dinner","kitchen swagger","latin dinner","jazzy dinner","bossa nova dinner","the perfect italian dinner","dinner lounge",
+    "diner entre amis","confidence boost","10s love songs","homework vibes","fresh  chill","young  free","we be vibin","maximum concentration",
+    "legendary","daily lift","good vibes","party deluxe","workout beats","positive vibes","yoga  meditation","chillin on a dirt road","gaming lounge",
+    "disney hits","summer 22","homework motivation","sad 00s","soft 10s","easy 00s","10 summers you wont forget","chill vibes","ultimate party classics",
+    "hits from the musicals","piano in the background","easy 80s","chill lofi study beats","happy mix", "moody mix","factor happy","easy on sunday",
+    "feelin myself","you  me","calm before the storm","easy", "bae","my life is a movie","goosebumps","tropical house", "deep dark indie",
+    "mood booster","easy on saturday","why dont we","the slaylist","badass","heart beats","00s love songs","bedroom jams","90s love songs","80s love songs",
+    "70s love songs","so good","songs to scream in the car","tear drop","just try to forget these songs","classic road trip songs",
+    "the party hits of the 2010s","dark  stormy","melancholy","tender","a walk alone","the midnight hour","sad beats","heartbreaker","alone again",
+    "sad songs","sad bops","sad covers","text me back","i miss you","born to run","beautiful day","top workout hits","10 summer hits you wont forget","chill mix",
+    "main stage","fast pop run","idk","dopamine","lavidaloca","bbe","genz nostalgie","time capsule","the locker", "dope af"
+    ]
+    
+    ,"artists":["taylor swift mix","ckay mix","tiesto mix","bts mix","this is adele","kris kross amsterdam mix","antoon mix","bad bunny mix",
+    "lauren spencersmith mix","guns n rosesmix","jack harlow mix","dire straits mix","tate mcrae mix","disturbed mix",
+    "deep purple mix","camila cabello mix","doja cat mix","ed sheeran mix","glass animals mix","russ mix","bad bunny radio",
+    "taylor swift radio","pink floyd radio","bts radio","bones radio","queen mix","pink floyd mix","charlie puth mix","harry styles mix",
+    "signed xoxo","zara larssons kvinnoamp","imenellas kvinnoamp","imagine dragons mix","numb little bug radio","idgaf with blackbear radio",
+    "bam bam feat ed sheeran radio","one right now radio","first class radio","the motto radio","go radio","psychofreak radio",
+    "thats what i want radio","when youre gone radio","psychofreaks radio","as it was radio","this is taylor swift","this is bad bunny",
+    "harry styles radio","this is bts","this is khalid","this is the weeknd","this is cyndi lauper","this is ariana grande","this is dua lipa", "this is ava max",
+    "this is miley cyrus","this is rita ora","this is little mix","this is katy perry","grime mix","fingers crossed radio","ghost radio","this is pink floyd",
+    "justin bieber radio","charlie puth radio","love nwantiti ah ah ah radio","industry baby radio", "enemy with jid radio","light switch radio",
+    "middle of the night radio","amapiano grooves","vanavond uit mn bol radio","nothing else matters radio","shes all i wanna be radio","infinity radio",
+    "this is racoon","this is tabitha","this is maan","this is nick  simon","this is snelle","this is andr hazes","this is guus meeuwis","this is nielson",
+    "this is blof","queen radio","this is suzan  freek","jack harlow radio"
+    ]
+     
+    ,"for_you":["daily mix 1","daily mix 2","daily mix 3","daily mix 4","daily mix 5","daily mix 6","daily drive","discover weekly","best of the decade for you","liked songs"]
+      
+    ,"other":["fuego","most necessary","mellow bars","edison pop 2022","radar canada", "radar us","kink 1500","fierce femmes","iconic arabic women","de jeugd","internet people",
+    "music of ukraine","lorem","misfits 20","equal", "equal belgium","created by women"
+    ]
+}
