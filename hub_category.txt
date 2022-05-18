@@ -1,0 +1,14 @@
+others = ['celebrating 5 years of american teen','current hits and the 10s','playlists celebrating women']
+moods_and_activities = ['throwback','mood','workout','singalong','happy','sad love','party', 'sad songs','love','chill','dream playlist rotation','dinner']
+genres = ['instrumental','rock', 'hip hop','pop', 'dutch language pop', 'instrumental','the best dance playlists', 'women of pop', 'global cultures on the main stage']
+for_you = ['your favorite artists','made for male name','recommended radio','try something else','to get you started','your top mixes','discover something new','uniquely yours','more of what you like',
+'made for female name', 'artists you like']
+trends = ['featured charts', 'fresh new music', 'todays biggest hits','featured charts', 'popular new releases', 'popular artists', 
+'trending now', 'popular albums','blijf op de hoogte', 'todays biggest hits', 'fresh new music','new and rising artists', 'trending albums for you', 'album picks']
+more_like_playlists = ['more like todays top hits', 'more like hot hits nl', 'more like pop rising']
+recommended = ['recommended for today', 'recommended for you today', 'suggested artists','based on your recent listening']
+more_like_artists = ['more like harry styles', 'more like imagine dragons', 'more like latto', 'more like jax jones', 'more like taylor swift',
+'more like kris kross amsterdam', 'more like charlie puth', 'discover more from pink floyd', 'best of artists', 'more like bts', 'for fans of bts',
+'more like justin bieber', 'more like lauren spencersmith', 'more like camila cabello', 'more like antoon', 'more like jack harlow',
+'more like 5 seconds of summer', 'for fans of bad bunny', 'more like ed sheeran', 'more like coldplay', 'for fans of taylor swift',
+'more like bad bunny', 'weeknd vibes', 'more like queen']
