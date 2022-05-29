@@ -1,0 +1,220 @@
+name: Today's Top Hits
+description: Jack Harlow is on top of the Hottest 50! 
+img ref: https://i.scdn.co/image/ab67706f0000000343bc1bfd24db8f3ce8b48ab9
+id: 37i9dQZF1DXcBWIGoYBM5M
+
+name: Pop Rising
+description: The hits of tomorrow are on Spotify today. Cover: Charlie Puth
+img ref: https://i.scdn.co/image/ab67706f00000003a77b2cf6223b62ce31f3795a
+id: 37i9dQZF1DWUa8ZRTfalHk
+
+name: Daily Mix 1
+description: Taylor Swift, Charli XCX, Omar Apollo en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb9e3acf1eaf3b8846e836f441/1/nl/large
+id: 37i9dQZF1E38KwlR1zxCgm
+
+name: Daily Mix 2
+description: Queen, Bruce Springsteen, Pink Floyd en meer
+img ref: https://dailymix-images.scdn.co/v2/img/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42/2/nl/large
+id: 37i9dQZF1E37ohPS9wcQMn
+
+name: Daily Mix 3
+description: Anson Seabra, Mimi Webb, Adele en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb0838f93c77032f5e36a08a8b/3/nl/large
+id: 37i9dQZF1E35UGygQXxfCr
+
+name: Daily Mix 4
+description: Kygo, Tones And I, George Ezra en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb6567299e3c53cf2a250fbdce/4/nl/large
+id: 37i9dQZF1E37zOtUByg3ii
+
+name: Daily Mix 5
+description: Pearl Jam, Rexx Life Raj, mike. en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb122d1145d880736383742ebc/5/nl/large
+id: 37i9dQZF1E3556dnEO8irM
+
+name: Daily Mix 6
+description: Cristian D, Antoon, Snelle en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebcca9b09e9c7646f5cdac928f/6/nl/large
+id: 37i9dQZF1E38QLDAj1w9oD
+
+name: Daily Mix 3
+description: Queen, Racoon, Bruce Springsteen en meer
+img ref: https://dailymix-images.scdn.co/v2/img/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42/3/nl/large
+id: 37i9dQZF1E36nktpVoXB14
+
+name: Daily Mix 1
+description: Charli XCX, Doja Cat, BTS en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb576cb43281160e345f728b71/1/nl/large
+id: 37i9dQZF1E36P2l4sUXzYX
+
+name: Daily Mix 2
+description: Tiësto, Lauren Spencer-Smith, Glass Animals en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb8cb651b2e77c6d30b1de15e4/2/nl/large
+id: 37i9dQZF1E34ZFZDD1YOfI
+
+name: Daily Mix 4
+description: Antoon, Cristian D, Snelle en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb1755c9e826c3fc23361344d2/4/nl/large
+id: 37i9dQZF1E38N0MsE8ZLqn
+
+name: Daily Mix 5
+description: Pearl Jam, Metallica, Coldplay en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb122d1145d880736383742ebc/5/nl/large
+id: 37i9dQZF1E37xbiyjDLqwJ
+
+name: Daily Mix 6
+description: Lil Nas X, Kehlani, Megan Thee Stallion en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebab6bd6e450cbc7629a9a2381/6/nl/large
+id: 37i9dQZF1E38tI6Ipxh8ww
+
+name: Daily Mix 1
+description: Faouzia, Miley Cyrus, Florence + The Machine en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebbecac79936001c718fece935/1/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 2
+description: Coldplay, Taylor Swift, Olivia Rodrigo en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb865a3301762a8fce048cb469/2/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 3
+description: Kygo, Anson Seabra, Mimi Webb en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb6567299e3c53cf2a250fbdce/3/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 4
+description: David Bowie, Mark Knopfler, Dire Straits en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebb78f77c5583ae99472dd4a49/4/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 5
+description: Swedish House Mafia, The Chainsmokers, Tones And I en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb0c05adcae61ac479afe35c8e/5/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 6
+description: Cristian D, Snelle, Kris Kross Amsterdam en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebcca9b09e9c7646f5cdac928f/6/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 1
+description: Adele, The Chainsmokers, Lauren Spencer-Smith en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb68f6e5892075d7f22615bd17/1/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 2
+description: Miley Cyrus, Leah Kate, Jamie Miller en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb02651b19050d8bf64b18d40a/2/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 3
+description: Bruce Springsteen, Dire Straits, Queen en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebd0cb49906c4f8080a5813d95/3/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 4
+description: Olivia Rodrigo, Pearl Jam, Harry Styles en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebee954a3b5418065c2fe253fb/4/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 5
+description: Cristian D, Snelle, Kris Kross Amsterdam en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebcca9b09e9c7646f5cdac928f/5/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 6
+description: Racoon, Suzan & Freek, Miss Montreal en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb0497103951920ab1ba3fc686/6/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 1
+description: Adele, The Chainsmokers, Lauren Spencer-Smith en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb68f6e5892075d7f22615bd17/1/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 2
+description: Miley Cyrus, Leah Kate, Jamie Miller en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb02651b19050d8bf64b18d40a/2/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 3
+description: Bruce Springsteen, Dire Straits, Queen en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebd0cb49906c4f8080a5813d95/3/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 4
+description: Olivia Rodrigo, Pearl Jam, Harry Styles en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebee954a3b5418065c2fe253fb/4/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 5
+description: Cristian D, Snelle, Kris Kross Amsterdam en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebcca9b09e9c7646f5cdac928f/5/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 6
+description: Racoon, Suzan & Freek, Miss Montreal en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb0497103951920ab1ba3fc686/6/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 1
+description: Faouzia, Miley Cyrus, Florence + The Machine en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebbecac79936001c718fece935/1/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 2
+description: Coldplay, Taylor Swift, Olivia Rodrigo en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb865a3301762a8fce048cb469/2/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 3
+description: Kygo, Anson Seabra, Mimi Webb en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb6567299e3c53cf2a250fbdce/3/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 4
+description: David Bowie, Mark Knopfler, Dire Straits en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebb78f77c5583ae99472dd4a49/4/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 5
+description: Swedish House Mafia, The Chainsmokers, Tones And I en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb0c05adcae61ac479afe35c8e/5/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 6
+description: Cristian D, Snelle, Kris Kross Amsterdam en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebcca9b09e9c7646f5cdac928f/6/nl/large
+id: ['37i9dQZF1E38KwlR1zxCgm', '37i9dQZF1E37ohPS9wcQMn', '37i9dQZF1E35UGygQXxfCr', '37i9dQZF1E37zOtUByg3ii', '37i9dQZF1E3556dnEO8irM', '37i9dQZF1E38QLDAj1w9oD']
+
+name: Daily Mix 1
+description: Adele, The Chainsmokers, Lauren Spencer-Smith en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb68f6e5892075d7f22615bd17/1/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 2
+description: Miley Cyrus, Leah Kate, Jamie Miller en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb02651b19050d8bf64b18d40a/2/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 3
+description: Bruce Springsteen, Dire Straits, Queen en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebd0cb49906c4f8080a5813d95/3/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 4
+description: Olivia Rodrigo, Pearl Jam, Harry Styles en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebee954a3b5418065c2fe253fb/4/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 5
+description: Cristian D, Snelle, Kris Kross Amsterdam en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebcca9b09e9c7646f5cdac928f/5/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
+name: Daily Mix 6
+description: Racoon, Suzan & Freek, Miss Montreal en meer
+img ref: https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb0497103951920ab1ba3fc686/6/nl/large
+id: ['37i9dQZF1E36P2l4sUXzYX', '37i9dQZF1E34ZFZDD1YOfI', '37i9dQZF1E36nktpVoXB14', '37i9dQZF1E38N0MsE8ZLqn', '37i9dQZF1E37xbiyjDLqwJ', '37i9dQZF1E38tI6Ipxh8ww']
+
