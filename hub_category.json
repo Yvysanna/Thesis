@@ -4,17 +4,17 @@
     ,"moods_and_activities": 
         ["throwback","mood","workout","singalong","happy","sad love","party", "sad songs","love","chill","dream playlist rotation","dinner"]
     ,"genres": 
-        ["instrumental","rock", "hip hop","pop", "dutch language pop", "instrumental","the best dance playlists", "women of pop", "global cultures on the main stage"]
+        ["instrumental","rock", "hip hop","pop", "dutch language pop","the best dance playlists", "women of pop", "global cultures on the main stage"]
     ,"for_you": 
         ["your favorite artists","made for male name","recommended radio","try something else","to get you started","your top mixes","discover something new","uniquely yours","more of what you like",
-        "made for female name", "artists you like"]
+        "made for female name","recommended for today", "recommended for you today", "suggested artists", "artists you like", "based on your recent listening"]
     ,"trends": 
         ["featured charts", "fresh new music", "todays biggest hits","featured charts", "popular new releases", "popular artists", 
         "trending now", "popular albums","blijf op de hoogte", "fresh new music","new and rising artists", "trending albums for you", "album picks"]
     ,"more_like_playlists": 
         ["more like todays top hits", "more like hot hits nl", "more like pop rising"]
     ,"recommended": 
-        ["recommended for today", "recommended for you today", "suggested artists","based on your recent listening"]
+        ["recommended for today", "recommended for you today", "suggested artists", "artists you like", "based on your recent listening"]
     ,"more_like_artists": 
         ["more like harry styles", "more like imagine dragons", "more like latto", "more like jax jones", "more like taylor swift",
         "more like kris kross amsterdam", "more like charlie puth", "discover more from pink floyd", "best of artists", "more like bts", 
