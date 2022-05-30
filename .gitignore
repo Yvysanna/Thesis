@@ -1,4 +1,4 @@
 .data/.DS_Store
 functional/__pycache__
 .ipynb_checkpoints
-.screenshots
+.data/.screenshots
