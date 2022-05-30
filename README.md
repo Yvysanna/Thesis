@@ -5,6 +5,8 @@ The thesis contributes to algorithm studies, analyzing potential gender bias wit
 
 Through investigative research and comparison between content recommended to two accounts from users of different genders, I outline significant differences in how far both users were given differently personalized content. My research aims to follow the debate that algorithms are reflective of ideologies curated within societal realities, contributing to bias. Furthermore, research on gender bias concerning musical content is still very limited in academia.
 
+## The coding schemes can be found under functional/category.json and functional/hub_category.json
+
 
 ## To clone the project
 execute
