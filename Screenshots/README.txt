@@ -1,0 +1,1 @@
+This directory contains directories with all screenshots taken for this research. All primary data in the csv and excel files is extracted from the screenshots. Further metadata for specifically important points is extracted through different requests of the Spotify API
